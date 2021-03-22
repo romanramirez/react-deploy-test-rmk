@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fe28328.chunk.css",
+    "main.js": "/static/js/main.7b4110db.chunk.js",
+    "main.js.map": "/static/js/main.7b4110db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06b5035f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06b5035f.js.map",
+    "static/js/2.77b53f69.chunk.js": "/static/js/2.77b53f69.chunk.js",
+    "static/js/2.77b53f69.chunk.js.map": "/static/js/2.77b53f69.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0fe28328.chunk.css.map": "/static/css/main.0fe28328.chunk.css.map",
+    "static/js/2.77b53f69.chunk.js.LICENSE.txt": "/static/js/2.77b53f69.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/roboto-condensed.light.d9e440de.ttf",
+    "static/media/airbnbgame.64faa5ac.png": "/static/media/airbnbgame.64faa5ac.png",
+    "static/media/email_icon.160a6010.png": "/static/media/email_icon.160a6010.png",
+    "static/media/github_icon.ccc9e199.png": "/static/media/github_icon.ccc9e199.png",
+    "static/media/guessnumber.f1410073.png": "/static/media/guessnumber.f1410073.png",
+    "static/media/herenciafarms.8e675c12.png": "/static/media/herenciafarms.8e675c12.png",
+    "static/media/linkedin_icon.27cd6ff7.png": "/static/media/linkedin_icon.27cd6ff7.png",
+    "static/media/roman.55577008.png": "/static/media/roman.55577008.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b5035f.js",
+    "static/js/2.77b53f69.chunk.js",
+    "static/css/main.0fe28328.chunk.css",
+    "static/js/main.7b4110db.chunk.js"
+  ]
+}
