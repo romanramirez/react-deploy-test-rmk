@@ -39,7 +39,7 @@ class App extends Component {
         <p>My name is Roman. I'm an aspiring software engineer!</p>
         <p>
           I'm look forward to working alongside some of the best engineering
-          talent at Airbnb!
+          talent at Twitter!
         </p>
         {bio}
         <hr />
